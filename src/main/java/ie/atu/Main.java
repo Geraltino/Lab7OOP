@@ -8,4 +8,3 @@ public class Main {
        System.out.println("Please enter a number between 0 - 9 :");
         }
     }
-}
